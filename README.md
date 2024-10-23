@@ -1,18 +1,12 @@
-## Getting Started
+##Objetivo do sistema
+Esse sistema é um jogo em Java que permite que dois jogadores escolham personagens e respondam a perguntas sobre programação. O objetivo do jogo é testar o conhecimento dos jogadores sobre conceitos de programação em Java, enquanto eles competem entre si para ver quem consegue responder corretamente a um maior número de perguntas.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+##Definições classes
+1 - Jogador: Representa um jogador no jogo. 2- Personagem: Representa um personagem disponível para escolha pelos jogadores. 3- Pergunta: Representa uma pergunta no jogo, contendo o texto da pergunta, uma lista de alternativas e a alternativa correta. 4- Alternativas: Representa uma alternativa de resposta para uma pergunta, contendo o texto da alternativa e um indicador de se é a alternativa correta. 5- ArrayList: É uma classe do Java que implementa uma lista dinâmica, permitindo a adição e manipulação de elementos. 6- Random: É uma classe do Java que permite a geração de números aleatórios. 7- Scanner: É uma classe do Java que permite a leitura de dados de entrada do usuário. 8- sleep: É um método que pausa a execução do programa por um determinado número de milissegundos.
 
-## Folder Structure
+##Colabores
+Marcelo Augusto, Joao gabriel, Marcelo, Breno
 
-The workspace contains two folders by default, where:
+##Diagrama de Classes do sistema
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+https://lucid.app/lucidchart/fa155297-2ddd-4b73-9dfc-7408c9cb19d1/edit?viewport_loc=-805%2C-413%2C2995%2C1451%2C0_0&invitationId=inv_02ad0f08-20d5-4258-9fb3-5fa051daa4e9
