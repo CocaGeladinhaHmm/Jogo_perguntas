@@ -1,3 +1,6 @@
+## Geral
+Trabalho da faculdade(UNIBH) da materia de programação e soluções computacionais.
+
 ## Objetivo do sistema
 Esse sistema é um jogo em Java que permite que dois jogadores escolham personagens e respondam a perguntas sobre programação. O objetivo do jogo é testar o conhecimento dos jogadores sobre conceitos de programação em Java, enquanto eles competem entre si para ver quem consegue responder corretamente a um maior número de perguntas.
 
